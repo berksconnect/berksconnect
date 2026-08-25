@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://berksconnect.com">
+    <img src="assets/berksconnect-logo.png" alt="BerksConnect" width="360" />
+  </a>
+</p>
 
-<!--
-**berksconnect/berksconnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# BerksConnect
 
-Here are some ideas to get you started:
+The local platform for Berks County, Pennsylvania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We combine a countywide business directory with a local news desk, an events calendar, a jobs board, restaurant menus, and guides to things to do — one place to find what's happening and who does what across Reading and the boroughs.
+
+**[berksconnect.com](https://berksconnect.com)**
+
+- [Businesses](https://berksconnect.com/businesses)
+- [News](https://berksconnect.com/news)
+- [Events](https://berksconnect.com/events)
+- [Jobs](https://berksconnect.com/jobs)
+- [Things to Do](https://berksconnect.com/things-to-do)
+
+For business owners: free gets you listed, premium gets you found first — [add your business](https://berksconnect.com/submit-listing).
