@@ -8,7 +8,7 @@
 
 The local platform for Berks County, Pennsylvania.
 
-We combine a countywide business directory with a local news desk, an events calendar, a jobs board, restaurant menus, and guides to things to do — one place to find what's happening and who does what across Reading and the boroughs.
+We combine a countywide business directory with a local news desk, an events calendar, a jobs board, restaurant menus, and guides to things to do. One place to find what's happening and who does what across Reading and the boroughs.
 
 **[berksconnect.com](https://berksconnect.com)**
 
